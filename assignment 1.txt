@@ -1,0 +1,25 @@
+
+
+Ans=1  main() { printf("Hello Students "); }
+
+Ans=2  main() { printf("Hello \n Students\n); }
+
+Ans=3  main() { printf("\"MySirG\""); }
+
+Ans=4  main() { int radius; printf("Area of the %f",3.14*(radius*radius)); }
+
+Ans=5  main() { int i; char s; printf("Enter a String"); scanf("%s",s); for(i=0;s!='\0';i++); printf("String Number Count %d",i); }
+
+Ans=6  main() { printf("\"Hello, Amit Kumar\""); }
+
+Ans=7  main() { printf("\"\%d\""); }
+
+Ans=8  main() { printf("\"\\n\""); }
+
+Ans=9  main() { printf("\\\"); }
+
+Ans=10 main() { int D,M,Y; printf("Enter date this form DD/MM/YYYY"); scanf("%d/%d/%d",&d,&m,&y); printf("Day-%d , Month-%d ,Year- %d",d,m,y); }
+
+Ans=11 main() { int H,M; printf("Enter time HH:MM"); scanf("%d:%d",&H,&M); printf("%d hour and %d Minute",H,M); }
+
+Ans=12  Output is ineuron7 
